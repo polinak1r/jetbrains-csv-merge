@@ -1,4 +1,10 @@
 ## CSV Merge Test Task 
+
+#### Clone the repository by HTTPS
+```bash
+git clone https://github.com/polinak1r/jetbrains-csv-merge.git
+cd "jetbrains-csv-merge"
+```
 > Please run all commands from the project root
 #### Run correct solution
 ```bash
