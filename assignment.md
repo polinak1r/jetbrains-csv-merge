@@ -9,6 +9,7 @@ For example:
 | 1          | 90   | 65          |
 | 2          | 77   | 100         |
 | 3          | 100  | 90          |
+
 And how it looks in plain text:
 ```
 student_id,math,informatics
